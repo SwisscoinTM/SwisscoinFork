@@ -1,5 +1,5 @@
 
-# [Download the Latest Release](https://github.com/jkinject/SwisscoinFork/releases/)
+## [Download the Latest Release](https://github.com/jkinject/SwisscoinFork/releases/)
 
 Swisscoin development tree
 
