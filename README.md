@@ -1,4 +1,6 @@
 
+## [Download the Latest Release](https://github.com/jkinject/SwisscoinFork/releases/)
+
 Swisscoin development tree
 
 Swisscoin is a PoS-based cryptocurrency.
